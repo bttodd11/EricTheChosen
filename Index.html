@@ -22,22 +22,36 @@
   <script src="uikit/dist/js/uikit-icons.min.js"></script>
   <script type="text/javascript" src="lib/typed.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Alice|Permanent+Marker|Rock+Salt|Special+Elite" rel="stylesheet">
+  <link rel="stylesheet" href="../css/font-awesome.min.css">
   </head>
 
   <body>
 <div id="Hero">
-  <nav class="navbar transparent navbar-expand-lg navbar-light nav justify-content-end">
-    <ul class="nav">
-  <li class="nav-item">
-    <a class="nav-link active" href="Story.html">My Story</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="Tour.html">Tour</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="Media.html">Media</a>
-  </li>
-</ul>
+  <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+      <div class="uk-navbar-left">
+          <ul class="uk-navbar-nav">
+              <li class="uk-active"><a href="Story.html">MyStory</a></li>
+              <li>
+                  <a href="Tour.html">Tour</a>
+              </li>
+              <li><a href="Media.html">Media</a></li>
+          </ul>
+      </div>
+      <div class="uk-navbar-right">
+        <ul class="uk-navbar-nav">
+          <li>
+              <a href="#">Social</a>
+              <div class="uk-navbar-dropdown">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                      <li><a href="">Instagram <i class="fa fa-instagram fa-2x"></i></a></li>
+                      <li><a href="#">YouTube <i class="fa fa-youtube fa-2x"></i></a></li>
+                      <li><a href="#">Soundcloud <i class="fa fa-soundcloud fa-2x"></i></a></li>
+                      <li><a href="#">Facebook <i class="fa fa-facebook fa-2x"></i></a></li>
+                  </ul>
+              </div>
+          </li>
+      </ul>
+      </div>
   </nav>
   <div id="typed-strings">
       <p>I am a Dallas,Tx product</p>
@@ -46,15 +60,10 @@
       <p>I am Prynce's father</p>
       <p>I am Chosen</p>
       <p>I am TheChosen</p>
-      <p>I am EricTheChosen</p>
+      <p>I am <strong>EricTheChosen</strong></p>
   </div>
   <span id="typed"></span>
-<div class="Social">
-  <a href="https://www.facebook.com/profile.php?id=605890961" uk-icon="icon: facebook; ratio:3"></a>
-  <a href="https://www.youtube.com/channel/UCwwrP7TPQmlkFHCWdCcYNpw" uk-icon="icon: youtube; ratio:3"></a>
-  <a href="https://soundcloud.com/ericthechosen" uk-icon="icon: soundcloud; ratio:3"></a>
-  <a href="https://www.instagram.com/ericthechosen/" uk-icon="icon: instagram; ratio:3"></a>
-</div>
+
 <script>
   var typed = new Typed('#typed', {
     stringsElement: '#typed-strings',
