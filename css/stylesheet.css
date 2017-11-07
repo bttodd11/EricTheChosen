@@ -3,21 +3,21 @@ body, html {
   margin: 0;
   background-color: black;
 }
-a:visited{
-  color:#E1B900;
+a:visited {
+  color: #E1B900;
 }
-a:hover{
-  color:#E1B900;
+a:link {
+  color: #E1B900;
 }
-footer{
+footer {
   font-family: 'Rock Salt', cursive;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   color: white;
+  text-shadow: 0 0 32px white;
+  color: white;
   background-color: black;
-  height: 7%;
+  height: 9%;
 }
-#Hero{
+#Hero {
   background-image: url(../img/ChosenBG.JPG);
   background-position: center;
   background-repeat: no-repeat;
@@ -25,11 +25,11 @@ footer{
   height: 140%;
   font-family: 'Rock Salt', cursive;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   color: white;
-   background-color: black;
+  text-shadow: 0 0 32px white;
+  color: white;
+  background-color: black;
 }
-#typed{
+#typed {
   font-size: 30px;
   margin-left: 16%;
   color: white;
@@ -39,34 +39,34 @@ footer{
   font-family: 'Rock Salt', cursive;
 }
 /*My Story Page*/
-#Story{
+#Story {
   font-family: 'Rock Salt', cursive;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   color: white;
-   background-color: black;
+  text-shadow: 0 0 32px white;
+  color: white;
+  background-color: black;
 }
-.Plot{
+.Plot {
   font-family: 'Rock Salt', cursive;
   font-size: 50px;
   text-align: center;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
+  text-shadow: 0 0 32px white;
+  opacity: .9;
+  color: white;
 }
-.PlotText{
+.PlotText {
   font-family: 'Permanent Marker', cursive;
   font-size: 42px;
   width: 90%;
   padding-left: 10%;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
+  text-shadow: 0 0 32px white;
+  opacity: .9;
+  color: white;
 }
 /*Tour Page*/
-#Tour{
+#Tour {
   background-image: url(../img/Chosen4.JPG);
   background-position: center;
   background-repeat: no-repeat;
@@ -74,12 +74,11 @@ footer{
   height: 140%;
   font-family: 'Rock Salt', cursive;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   color: white;
-   background-color: black;
-
+  text-shadow: 0 0 32px white;
+  color: white;
+  background-color: black;
 }
-.TourHeading{
+.TourHeading {
   font-size: 40px;
   font-family: 'Rock Salt', cursive;
   color: white;
@@ -88,94 +87,88 @@ footer{
   margin-top: 27%;
 }
 /*Media Page*/
-#Media{
+#Media {
   font-family: 'Rock Salt', cursive;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   color: white;
-   background-color: black;
+  text-shadow: 0 0 32px white;
+  color: white;
+  background-color: black;
 }
-.Enigma{
+.Enigma {
   height: 300px;
   width: 300px;
 }
-.EnigmaHeading{
+.EnigmaHeading {
   font-size: 40px;
   font-family: 'Nothing You Could Do', cursive;
   padding-left: 27%;
   color: white;
 }
-.TrackList{
+.TrackList {
   font-size: 40px;
- font-family: 'Nothing You Could Do', cursive;
- color: transparent;
+  font-family: 'Nothing You Could Do', cursive;
+  color: transparent;
   text-shadow: 0 0 32px white;
   opacity: .9;
   color: white;
   padding-left: 20%;
 }
-.Tracks{
+.Tracks {
   font-size: 35px;
   width: 500px;
   margin-left: 17%;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
-
+  text-shadow: 0 0 32px white;
+  opacity: .9;
+  color: white;
 }
-.Tracks li{
-display: inline;
-font-size: 30px;
-font-family: 'Nothing You Could Do', cursive;
-color: transparent;
- text-shadow: 0 0 32px white;
- opacity: .9;
- color: white;
-
+.Tracks li {
+  display: inline;
+  font-size: 30px;
+  font-family: 'Nothing You Could Do', cursive;
+  color: transparent;
+  text-shadow: 0 0 32px white;
+  opacity: .9;
+  color: white;
 }
-.AlbumCover{
+.AlbumCover {
   width: 500px;
   height: 500px;
   border-radius: 15px;
   margin-left: 18%;
 }
-.projects{
+.projects {
   font-family: 'Rock Salt', cursive;
   font-size: 40px;
   text-align: center;
   padding-bottom: 7%;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
+  text-shadow: 0 0 32px white;
+  opacity: .9;
+  color: white;
 }
-.song{
+.song {
   font-size: 25px;
   font-family: 'Rock Salt', cursive;
   text-decoration: underline;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
+  text-shadow: 0 0 32px white;
+  opacity: .9;
+  color: #E1B900;
 }
-.lyric{
+.lyric {
   font-size: 14px;
   font-family: 'Rock Salt', cursive;
   width: 300px;
   padding-bottom: 9%;
   color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
+  text-shadow: 0 0 32px white;
+  opacity: .9;
+  color: white;
 }
-
-
-
-
 /*// Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 480px) {
-  #Hero{
+  #Hero {
     background-image: url(../img/ChosenBG.JPG);
     background-position: center;
     background-repeat: no-repeat;
@@ -183,11 +176,11 @@ color: transparent;
     height: 140%;
     font-family: 'Rock Salt', cursive;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     color: white;
-     background-color: black;
+    text-shadow: 0 0 32px white;
+    color: white;
+    background-color: black;
   }
-  #typed{
+  #typed {
     font-size: 20px;
     margin-left: 16%;
     opacity: .9;
@@ -195,167 +188,135 @@ color: transparent;
     padding-top: 19%;
     font-family: 'Rock Salt', cursive;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     color: white;
+    text-shadow: 0 0 32px white;
+    color: white;
   }
-  .Plot{
+  .Plot {
     font-family: 'Rock Salt', cursive;
     font-size: 30px;
     text-align: center;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .PlotText{
+  .PlotText {
     font-family: 'Permanent Marker', cursive;
     font-size: 18px;
-    width: 90%;
+    width: 80%;
     text-align: center;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  #Tour{
-  background-image: url(../img/Chosen6.JPG);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 110%;
-  width: 107%;
-  font-family: 'Rock Salt', cursive;
-  color: transparent;
-   text-shadow: 0 0 32px white;
-   color: white;
-   background-color: black;
-
-}
-  .TourHeading{
+  #Tour {
+    background-image: url(../img/Chosen6.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110%;
+    width: 107%;
+    font-family: 'Rock Salt', cursive;
+    color: transparent;
+    text-shadow: 0 0 32px white;
+    color: white;
+    background-color: black;
+  }
+  .TourHeading {
     font-size: 17px;
     font-family: 'Rock Salt', cursive;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .7;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .7;
+    color: white;
     margin-top: 2%;
     margin-left: 48%;
     text-align: center;
-
   }
-  .Enigma{
+  .Enigma {
     height: 200px;
     width: 200px;
   }
-  .EnigmaHeading{
+  .EnigmaHeading {
     font-size: 28px;
     font-family: 'Nothing You Could Do', cursive;
     padding-left: 13%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .TrackList{
+  .TrackList {
     font-size: 20px;
     font-family: 'Nothing You Could Do', cursive;
     text-decoration: underline;
-     padding-left: 32%;
-     color: transparent;
-      text-shadow: 0 0 32px white;
-      opacity: .9;
-      color: white;
+    padding-left: 32%;
+    color: transparent;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .Tracks{
+  .Tracks {
     font-size: 18px;
     width: 300px;
     margin-left: 10%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-.Tracks li{
-  display: inline;
-  font-size: 15px;
-  font-family: 'Nothing You Could Do', cursive;
-  color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
-}
-  .AlbumCover{
+  .Tracks li {
+    display: inline;
+    font-size: 15px;
+    font-family: 'Nothing You Could Do', cursive;
+    color: transparent;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
+  }
+  .AlbumCover {
     width: 300px;
     height: 300px;
     border-radius: 15px;
     margin-left: 9%;
-
   }
-  .projects{
+  .projects {
     font-family: 'Rock Salt', cursive;
     font-size: 30px;
     padding-bottom: 9%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
-
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .song{
+  .song {
     font-size: 16px;
     font-family: 'Rock Salt', cursive;
     text-decoration: underline;
     font-weight: 300;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: #E1B900;
   }
-  .lyric{
-    font-size: 12px;
+  .lyric {
+    font-size: 15px;
     font-family: 'Rock Salt', cursive;
     font-weight: bold;
     width: 300px;
     padding-bottom: 9%;
     text-align: center;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
-     margin-left: 6%;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
+    margin-left: 6%;
   }
 }
-
-
-
-/*// Small devices (landscape phones, 576px and up)*/
-@media (min-width: 576) {
-  #typed{
-    font-size: 35px;
-    margin-left: 19%;
-    color: white;
-    opacity: .4;
-    position: absolute;
-    padding-top: 15%;
-    font-family: 'Rock Salt', cursive;
-  }
-  #Tour{
-    background-image: url(../img/Chosen4.JPG);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    font-family: 'Rock Salt', cursive;
-  }
-
- }
-
-
-
-
 /*// Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
-  #Hero{
+  #Hero {
     background-image: url(../img/ChosenBG.JPG);
     background-position: center;
     background-repeat: no-repeat;
@@ -363,7 +324,7 @@ color: transparent;
     height: 140%;
     font-family: 'Rock Salt', cursive;
   }
-  #typed{
+  #typed {
     font-size: 27px;
     margin-left: 15%;
     color: white;
@@ -373,52 +334,47 @@ color: transparent;
     font-family: 'Rock Salt', cursive;
   }
 }
-
-/*// Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
-  #typed{
+  #typed {
     font-size: 65px;
     margin-left: 19%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
     position: absolute;
     padding-top: 15%;
     font-family: 'Rock Salt', cursive;
   }
   /*My Story Page*/
-  #Story{
+  #Story {
     font-family: 'Rock Salt', cursive;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     color: white;
-     background-color: black;
-
+    text-shadow: 0 0 32px white;
+    color: white;
+    background-color: black;
   }
-  .Plot{
+  .Plot {
     font-family: 'Rock Salt', cursive;
     font-size: 30px;
     text-align: center;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     color: white;
-      opacity: .9;
-
+    text-shadow: 0 0 32px white;
+    color: white;
+    opacity: .9;
   }
-  .PlotText{
+  .PlotText {
     font-family: 'Permanent Marker', cursive;
     font-size: 30px;
     width: 90%;
-    padding-left: 10%;
+    padding-left: 5%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
-
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
   /*Tour Page*/
-  #Tour{
+  #Tour {
     background-image: url(../img/Chosen4.JPG);
     background-position: center;
     background-repeat: no-repeat;
@@ -426,104 +382,90 @@ color: transparent;
     height: 140%;
     font-family: 'Rock Salt', cursive;
   }
-
-  .TourHeading{
+  .TourHeading {
     font-size: 89px;
     font-family: 'Rock Salt', cursive;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .2;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .2;
+    color: white;
     text-align: center;
     margin-top: 27%;
   }
   /*Media Page*/
-  #Media{
+  #Media {
     font-family: 'Rock Salt', cursive;
     background-color: black;
   }
-  .Enigma{
+  .Enigma {
     height: 500px;
     width: 500px;
     padding-left: 15%;
   }
-  .EnigmaHeading{
+  .EnigmaHeading {
     font-size: 80px;
     font-family: 'Nothing You Could Do', cursive;
     padding-left: 20%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
-
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .TrackList{
+  .TrackList {
     font-size: 40px;
     font-family: 'Nothing You Could Do', cursive;
     text-decoration: underline;
     margin-left: 21%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .Tracks{
+  .Tracks {
     font-size: 35px;
     width: 55%;
     margin-left: 25%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .6;
-     color: white;
-
+    text-shadow: 0 0 32px white;
+    opacity: .6;
+    color: white;
   }
-.Tracks li{
-  display: inline;
-  font-size: 30px;
-  font-family: 'Nothing You Could Do', cursive;
-  color: transparent;
-   text-shadow: 0 0 32px white;
-   opacity: .9;
-   color: white;
-
-
-}
-  .AlbumCover{
+  .Tracks li {
+    display: inline;
+    font-size: 30px;
+    font-family: 'Nothing You Could Do', cursive;
+    color: transparent;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
+  }
+  .AlbumCover {
     width: 47%;
     height: 47%;
     border-radius: 15px;
     margin-left: 25%;
-
   }
-  .projects{
+  .projects {
     font-family: 'Rock Salt', cursive;
     font-size: 70px;
     text-align: center;
     padding-bottom: 7%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
-
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .song{
+  .song {
     font-size: 20px;
     font-family: 'Rock Salt', cursive;
     font-weight: 400;
     margin-left: 20%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
-
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+  color: #E1B900;
   }
-  a:visited{
-    color:#E1B900;
-  }
-  a:hover{
-    color:#E1B900;
-  }
-  .lyric{
+  .lyric {
     font-size: 20px;
     font-family: 'Rock Salt', cursive;
     width: 440px;
@@ -535,28 +477,25 @@ color: transparent;
     color: white;
   }
 }
-
-
 /*// Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
-  .Plot{
+  .Plot {
     font-family: 'Rock Salt', cursive;
     font-size: 50px;
     text-align: center;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-  .PlotText{
+  .PlotText {
     font-family: 'Permanent Marker', cursive;
     font-size: 36px;
     width: 60%;
     margin-left: 15%;
     color: transparent;
-     text-shadow: 0 0 32px white;
-     opacity: .9;
-     color: white;
+    text-shadow: 0 0 32px white;
+    opacity: .9;
+    color: white;
   }
-
 }
