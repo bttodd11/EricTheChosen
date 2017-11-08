@@ -10,12 +10,13 @@ a:link {
   color: #E1B900;
 }
 footer {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Permanent Marker', cursive;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
   background-color: black;
   height: 9%;
+  font-size: 15px;
 }
 #Hero {
   background-image: url(../img/ChosenBG.JPG);
@@ -32,22 +33,24 @@ footer {
 #typed {
   font-size: 30px;
   margin-left: 16%;
-  color: white;
-  opacity: .4;
+  opacity: .9;
   position: absolute;
   padding-top: 15%;
   font-family: 'Rock Salt', cursive;
+  color: transparent;
+  text-shadow: 0 0 32px white;
+  color: white;
 }
 /*My Story Page*/
 #Story {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Permanent Marker', cursive;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
   background-color: black;
 }
 .Plot {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Permanent Marker', cursive;
   font-size: 50px;
   text-align: center;
   color: transparent;
@@ -72,23 +75,23 @@ footer {
   background-repeat: no-repeat;
   background-size: cover;
   height: 140%;
-  font-family: 'Rock Salt', cursive;
+ font-family: 'Permanent Marker', cursive;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
   background-color: black;
 }
 .TourHeading {
-  font-size: 40px;
-  font-family: 'Rock Salt', cursive;
+  font-size: 48px;
+font-family: 'Permanent Marker', cursive;
   color: white;
   text-align: center;
   opacity: .2;
-  margin-top: 27%;
+  margin-top: 21%;
 }
 /*Media Page*/
 #Media {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Permanent Marker', cursive;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
@@ -100,13 +103,13 @@ footer {
 }
 .EnigmaHeading {
   font-size: 40px;
-  font-family: 'Nothing You Could Do', cursive;
+  font-family: 'Permanent Marker', cursive;
   padding-left: 27%;
   color: white;
 }
 .TrackList {
   font-size: 40px;
-  font-family: 'Nothing You Could Do', cursive;
+  font-family: 'Permanent Marker', cursive;
   color: transparent;
   text-shadow: 0 0 32px white;
   opacity: .9;
@@ -125,7 +128,7 @@ footer {
 .Tracks li {
   display: inline;
   font-size: 30px;
-  font-family: 'Nothing You Could Do', cursive;
+  font-family: 'Permanent Marker', cursive;
   color: transparent;
   text-shadow: 0 0 32px white;
   opacity: .9;
@@ -138,7 +141,7 @@ footer {
   margin-left: 18%;
 }
 .projects {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Permanent Marker', cursive;
   font-size: 40px;
   text-align: center;
   padding-bottom: 7%;
@@ -149,7 +152,7 @@ footer {
 }
 .song {
   font-size: 25px;
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Permanent Marker', cursive;
   text-decoration: underline;
   color: transparent;
   text-shadow: 0 0 32px white;
@@ -158,7 +161,7 @@ footer {
 }
 .lyric {
   font-size: 14px;
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Permanent Marker', cursive;
   width: 300px;
   padding-bottom: 9%;
   color: transparent;
@@ -192,7 +195,7 @@ footer {
     color: white;
   }
   .Plot {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'Permanent Marker', cursive;
     font-size: 30px;
     text-align: center;
     color: transparent;
@@ -217,15 +220,15 @@ footer {
     background-size: cover;
     height: 110%;
     width: 107%;
-    font-family: 'Rock Salt', cursive;
+    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     color: white;
     background-color: black;
   }
   .TourHeading {
-    font-size: 17px;
-    font-family: 'Rock Salt', cursive;
+    font-size: 19px;
+    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .7;
@@ -240,7 +243,7 @@ footer {
   }
   .EnigmaHeading {
     font-size: 28px;
-    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Permanent Marker', cursive;
     padding-left: 13%;
     color: transparent;
     text-shadow: 0 0 32px white;
@@ -249,7 +252,7 @@ footer {
   }
   .TrackList {
     font-size: 20px;
-    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Permanent Marker', cursive;
     text-decoration: underline;
     padding-left: 32%;
     color: transparent;
@@ -269,7 +272,7 @@ footer {
   .Tracks li {
     display: inline;
     font-size: 15px;
-    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
@@ -282,8 +285,8 @@ footer {
     margin-left: 9%;
   }
   .projects {
-    font-family: 'Rock Salt', cursive;
-    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
     padding-bottom: 9%;
     color: transparent;
     text-shadow: 0 0 32px white;
@@ -291,8 +294,8 @@ footer {
     color: white;
   }
   .song {
-    font-size: 16px;
-    font-family: 'Rock Salt', cursive;
+    font-size: 19px;
+    font-family: 'Permanent Marker', cursive;
     text-decoration: underline;
     font-weight: 300;
     color: transparent;
@@ -301,8 +304,8 @@ footer {
     color: #E1B900;
   }
   .lyric {
-    font-size: 15px;
-    font-family: 'Rock Salt', cursive;
+    font-size: 17px;
+    font-family: 'Permanent Marker', cursive;
     font-weight: bold;
     width: 300px;
     padding-bottom: 9%;
@@ -328,7 +331,7 @@ footer {
     font-size: 27px;
     margin-left: 15%;
     color: white;
-    opacity: .4;
+    opacity: .9;
     position: absolute;
     padding-top: 19%;
     font-family: 'Rock Salt', cursive;
@@ -380,11 +383,11 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     height: 140%;
-    font-family: 'Rock Salt', cursive;
+    font-family: 'Permanent Marker', cursive;
   }
   .TourHeading {
-    font-size: 89px;
-    font-family: 'Rock Salt', cursive;
+    font-size: 110px;
+    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .2;
@@ -404,7 +407,7 @@ footer {
   }
   .EnigmaHeading {
     font-size: 80px;
-    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Permanent Marker', cursive;
     padding-left: 20%;
     color: transparent;
     text-shadow: 0 0 32px white;
@@ -413,7 +416,7 @@ footer {
   }
   .TrackList {
     font-size: 40px;
-    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Permanent Marker', cursive;
     text-decoration: underline;
     margin-left: 21%;
     color: transparent;
@@ -433,7 +436,7 @@ footer {
   .Tracks li {
     display: inline;
     font-size: 30px;
-    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
@@ -446,8 +449,8 @@ footer {
     margin-left: 25%;
   }
   .projects {
-    font-family: 'Rock Salt', cursive;
-    font-size: 70px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
     text-align: center;
     padding-bottom: 7%;
     color: transparent;
@@ -456,8 +459,8 @@ footer {
     color: white;
   }
   .song {
-    font-size: 20px;
-    font-family: 'Rock Salt', cursive;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
     font-weight: 400;
     margin-left: 20%;
     color: transparent;
@@ -466,8 +469,8 @@ footer {
   color: #E1B900;
   }
   .lyric {
-    font-size: 20px;
-    font-family: 'Rock Salt', cursive;
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
     width: 440px;
     padding-bottom: 9%;
     margin-left: 20%;
@@ -480,7 +483,7 @@ footer {
 /*// Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
   .Plot {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'Permanent Marker', cursive;
     font-size: 50px;
     text-align: center;
     color: transparent;
