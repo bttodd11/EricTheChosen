@@ -10,7 +10,7 @@ a:link {
   color: #E1B900;
 }
 footer {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
@@ -23,8 +23,7 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 140%;
-  font-family: 'Rock Salt', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
@@ -43,14 +42,14 @@ footer {
 }
 /*My Story Page*/
 #Story {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
   background-color: black;
 }
 .Plot {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   font-size: 50px;
   text-align: center;
   color: transparent;
@@ -59,7 +58,7 @@ footer {
   color: white;
 }
 .PlotText {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   font-size: 42px;
   width: 90%;
   padding-left: 10%;
@@ -75,7 +74,7 @@ footer {
   background-repeat: no-repeat;
   background-size: cover;
   height: 140%;
- font-family: 'Permanent Marker', cursive;
+ font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
@@ -83,7 +82,7 @@ footer {
 }
 .TourHeading {
   font-size: 48px;
-font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   color: white;
   text-align: center;
   opacity: .2;
@@ -91,7 +90,7 @@ font-family: 'Permanent Marker', cursive;
 }
 /*Media Page*/
 #Media {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
@@ -103,18 +102,20 @@ font-family: 'Permanent Marker', cursive;
 }
 .EnigmaHeading {
   font-size: 40px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   padding-left: 27%;
   color: white;
+  font-family: 'IM Fell DW Pica SC', serif;
 }
 .TrackList {
   font-size: 40px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   opacity: .9;
   color: white;
   padding-left: 20%;
+  font-family: 'IM Fell DW Pica SC', serif;
 }
 .Tracks {
   font-size: 35px;
@@ -124,15 +125,17 @@ font-family: 'Permanent Marker', cursive;
   text-shadow: 0 0 32px white;
   opacity: .9;
   color: white;
+  font-family: 'IM Fell DW Pica SC', serif;
 }
 .Tracks li {
   display: inline;
   font-size: 30px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   opacity: .9;
   color: white;
+  font-family: 'IM Fell DW Pica SC', serif;
 }
 .AlbumCover {
   width: 500px;
@@ -141,7 +144,7 @@ font-family: 'Permanent Marker', cursive;
   margin-left: 18%;
 }
 .projects {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   font-size: 40px;
   text-align: center;
   padding-bottom: 7%;
@@ -152,7 +155,7 @@ font-family: 'Permanent Marker', cursive;
 }
 .song {
   font-size: 25px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   text-decoration: underline;
   color: transparent;
   text-shadow: 0 0 32px white;
@@ -161,7 +164,7 @@ font-family: 'Permanent Marker', cursive;
 }
 .lyric {
   font-size: 14px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
   width: 300px;
   padding-bottom: 9%;
   color: transparent;
@@ -177,7 +180,7 @@ font-family: 'Permanent Marker', cursive;
     background-repeat: no-repeat;
     background-size: cover;
     height: 140%;
-    font-family: 'Rock Salt', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
     color: transparent;
     text-shadow: 0 0 32px white;
     color: white;
@@ -195,16 +198,15 @@ font-family: 'Permanent Marker', cursive;
     color: white;
   }
   .Plot {
-    font-family: 'Permanent Marker', cursive;
     font-size: 30px;
     text-align: center;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .PlotText {
-    font-family: 'Permanent Marker', cursive;
     font-size: 18px;
     width: 80%;
     text-align: center;
@@ -212,6 +214,7 @@ font-family: 'Permanent Marker', cursive;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   #Tour {
     background-image: url(../img/Chosen6.JPG);
@@ -220,15 +223,14 @@ font-family: 'Permanent Marker', cursive;
     background-size: cover;
     height: 110%;
     width: 107%;
-    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     color: white;
     background-color: black;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .TourHeading {
     font-size: 19px;
-    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .7;
@@ -236,6 +238,7 @@ font-family: 'Permanent Marker', cursive;
     margin-top: 2%;
     margin-left: 48%;
     text-align: center;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .Enigma {
     height: 200px;
@@ -243,22 +246,23 @@ font-family: 'Permanent Marker', cursive;
   }
   .EnigmaHeading {
     font-size: 28px;
-    font-family: 'Permanent Marker', cursive;
-    padding-left: 13%;
+    padding-left: 17%;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .TrackList {
     font-size: 20px;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
     text-decoration: underline;
     padding-left: 32%;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .Tracks {
     font-size: 18px;
@@ -268,15 +272,16 @@ font-family: 'Permanent Marker', cursive;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .Tracks li {
     display: inline;
     font-size: 15px;
-    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .AlbumCover {
     width: 300px;
@@ -285,27 +290,27 @@ font-family: 'Permanent Marker', cursive;
     margin-left: 9%;
   }
   .projects {
-    font-family: 'Permanent Marker', cursive;
     font-size: 40px;
-    padding-bottom: 9%;
+    padding-top: 4%;
+    padding-bottom: 4%;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .song {
     font-size: 19px;
-    font-family: 'Permanent Marker', cursive;
     text-decoration: underline;
     font-weight: 300;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: #E1B900;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .lyric {
     font-size: 17px;
-    font-family: 'Permanent Marker', cursive;
     font-weight: bold;
     width: 300px;
     padding-bottom: 9%;
@@ -315,6 +320,7 @@ font-family: 'Permanent Marker', cursive;
     opacity: .9;
     color: white;
     margin-left: 6%;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
 }
 /*// Medium devices (tablets, 768px and up)*/
@@ -325,7 +331,7 @@ font-family: 'Permanent Marker', cursive;
     background-repeat: no-repeat;
     background-size: cover;
     height: 140%;
-    font-family: 'Rock Salt', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   #typed {
     font-size: 27px;
@@ -351,14 +357,14 @@ font-family: 'Permanent Marker', cursive;
   }
   /*My Story Page*/
   #Story {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
     color: transparent;
     text-shadow: 0 0 32px white;
     color: white;
     background-color: black;
   }
   .Plot {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
     font-size: 30px;
     text-align: center;
     color: transparent;
@@ -367,7 +373,6 @@ font-family: 'Permanent Marker', cursive;
     opacity: .9;
   }
   .PlotText {
-    font-family: 'Permanent Marker', cursive;
     font-size: 30px;
     width: 90%;
     padding-left: 5%;
@@ -375,6 +380,7 @@ font-family: 'Permanent Marker', cursive;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   /*Tour Page*/
   #Tour {
@@ -383,21 +389,21 @@ font-family: 'Permanent Marker', cursive;
     background-repeat: no-repeat;
     background-size: cover;
     height: 140%;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .TourHeading {
     font-size: 110px;
-    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .2;
     color: white;
     text-align: center;
     margin-top: 27%;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   /*Media Page*/
   #Media {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
     background-color: black;
   }
   .Enigma {
@@ -407,7 +413,7 @@ font-family: 'Permanent Marker', cursive;
   }
   .EnigmaHeading {
     font-size: 80px;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'IM Fell DW Pica SC', serif;
     padding-left: 20%;
     color: transparent;
     text-shadow: 0 0 32px white;
@@ -416,31 +422,32 @@ font-family: 'Permanent Marker', cursive;
   }
   .TrackList {
     font-size: 40px;
-    font-family: 'Permanent Marker', cursive;
     text-decoration: underline;
     margin-left: 21%;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .Tracks {
     font-size: 35px;
-    width: 55%;
-    margin-left: 25%;
+    width: 70%;
+    margin-left: 15%;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .6;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .Tracks li {
     display: inline;
     font-size: 30px;
-    font-family: 'Permanent Marker', cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .AlbumCover {
     width: 47%;
@@ -449,7 +456,6 @@ font-family: 'Permanent Marker', cursive;
     margin-left: 25%;
   }
   .projects {
-    font-family: 'Permanent Marker', cursive;
     font-size: 80px;
     text-align: center;
     padding-bottom: 7%;
@@ -457,20 +463,20 @@ font-family: 'Permanent Marker', cursive;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
   .song {
     font-size: 30px;
-    font-family: 'Permanent Marker', cursive;
     font-weight: 400;
     margin-left: 20%;
     color: transparent;
     text-shadow: 0 0 32px white;
     opacity: .9;
   color: #E1B900;
+  font-family: 'IM Fell DW Pica SC', serif;
   }
   .lyric {
     font-size: 25px;
-    font-family: 'Permanent Marker', cursive;
     width: 440px;
     padding-bottom: 9%;
     margin-left: 20%;
@@ -478,12 +484,13 @@ font-family: 'Permanent Marker', cursive;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
 }
 /*// Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
   .Plot {
-    font-family: 'Permanent Marker', cursive;
+  font-family: 'IM Fell DW Pica SC', serif;
     font-size: 50px;
     text-align: center;
     color: transparent;
@@ -492,7 +499,6 @@ font-family: 'Permanent Marker', cursive;
     color: white;
   }
   .PlotText {
-    font-family: 'Permanent Marker', cursive;
     font-size: 36px;
     width: 60%;
     margin-left: 15%;
@@ -500,5 +506,6 @@ font-family: 'Permanent Marker', cursive;
     text-shadow: 0 0 32px white;
     opacity: .9;
     color: white;
+    font-family: 'IM Fell DW Pica SC', serif;
   }
 }
