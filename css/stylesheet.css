@@ -45,16 +45,22 @@ footer {
   font-family: 'IM Fell DW Pica SC', serif;
   color: transparent;
   text-shadow: 0 0 32px white;
-  color: white;
+  color: transparent
   background-color: black;
+  background-image: url(../img/Chosen.JPG);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 110%;
 }
+
 .Plot {
   font-family: 'IM Fell DW Pica SC', serif;
   font-size: 50px;
   text-align: center;
   color: transparent;
   text-shadow: 0 0 32px white;
-  opacity: .9;
+  opacity: .3;
   color: white;
 }
 .PlotText {
@@ -64,7 +70,7 @@ footer {
   padding-left: 10%;
   color: transparent;
   text-shadow: 0 0 32px white;
-  opacity: .9;
+  opacity: .3;
   color: white;
 }
 /*Tour Page*/
@@ -202,7 +208,7 @@ footer {
     text-align: center;
     color: transparent;
     text-shadow: 0 0 32px white;
-    opacity: .9;
+    opacity: .3;
     color: white;
     font-family: 'IM Fell DW Pica SC', serif;
   }
@@ -212,7 +218,7 @@ footer {
     text-align: center;
     color: transparent;
     text-shadow: 0 0 32px white;
-    opacity: .9;
+    opacity: .3;
     color: white;
     font-family: 'IM Fell DW Pica SC', serif;
   }
@@ -360,7 +366,6 @@ footer {
     font-family: 'IM Fell DW Pica SC', serif;
     color: transparent;
     text-shadow: 0 0 32px white;
-    color: white;
     background-color: black;
   }
   .Plot {
@@ -370,7 +375,7 @@ footer {
     color: transparent;
     text-shadow: 0 0 32px white;
     color: white;
-    opacity: .9;
+    opacity: .3;
   }
   .PlotText {
     font-size: 30px;
@@ -378,7 +383,7 @@ footer {
     padding-left: 5%;
     color: transparent;
     text-shadow: 0 0 32px white;
-    opacity: .9;
+    opacity: .3;
     color: white;
     font-family: 'IM Fell DW Pica SC', serif;
   }
@@ -495,7 +500,7 @@ footer {
     text-align: center;
     color: transparent;
     text-shadow: 0 0 32px white;
-    opacity: .9;
+    opacity: .7;
     color: white;
   }
   .PlotText {
@@ -504,7 +509,7 @@ footer {
     margin-left: 15%;
     color: transparent;
     text-shadow: 0 0 32px white;
-    opacity: .9;
+    opacity: .7;
     color: white;
     font-family: 'IM Fell DW Pica SC', serif;
   }
