@@ -15,7 +15,7 @@ footer {
   text-shadow: 0 0 32px white;
   color: white;
   background-color: black;
-  height: 9%;
+  height: 2%;
   font-size: 15px;
 }
 #Hero {
@@ -51,10 +51,10 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 110%;
+  height: 120%;
 }
 
-.Plot {
+/* .Plot {
   font-family: 'IM Fell DW Pica SC', serif;
   font-size: 50px;
   text-align: center;
@@ -62,16 +62,15 @@ footer {
   text-shadow: 0 0 32px white;
   opacity: .3;
   color: white;
-}
+} */
 .PlotText {
   font-family: 'IM Fell DW Pica SC', serif;
-  font-size: 42px;
-  width: 90%;
-  padding-left: 10%;
+  font-size: 22px;
+  text-align: center;
   color: transparent;
-  text-shadow: 0 0 32px white;
-  opacity: .3;
-  color: white;
+  text-shadow: 0 0 32px #FFB6C1;
+  opacity: .9;
+  color: #FFB6C1;
 }
 /*Tour Page*/
 #Tour {
@@ -203,7 +202,7 @@ footer {
     text-shadow: 0 0 32px white;
     color: white;
   }
-  .Plot {
+  /* .Plot {
     font-size: 30px;
     text-align: center;
     color: transparent;
@@ -211,15 +210,17 @@ footer {
     opacity: .3;
     color: white;
     font-family: 'IM Fell DW Pica SC', serif;
-  }
+  } */
   .PlotText {
-    font-size: 18px;
+    font-size: 24px;
+    padding-top: 15%;
     width: 80%;
+    padding-left: 10%;
     text-align: center;
     color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .3;
-    color: white;
+    text-shadow: 0 0 32px #FFB6C1;
+    opacity: .9;
+    color: #FFB6C1;
     font-family: 'IM Fell DW Pica SC', serif;
   }
   #Tour {
@@ -368,7 +369,7 @@ footer {
     text-shadow: 0 0 32px white;
     background-color: black;
   }
-  .Plot {
+  /* .Plot {
     font-family: 'IM Fell DW Pica SC', serif;
     font-size: 30px;
     text-align: center;
@@ -376,15 +377,15 @@ footer {
     text-shadow: 0 0 32px white;
     color: white;
     opacity: .3;
-  }
+  } */
   .PlotText {
-    font-size: 30px;
-    width: 90%;
+    font-size: 45px;
+    padding-top: 9%;
     padding-left: 5%;
     color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .3;
-    color: white;
+    text-shadow: 0 0 32px #FFB6C1;
+    opacity: .9;
+    color: #FFB6C1;
     font-family: 'IM Fell DW Pica SC', serif;
   }
   /*Tour Page*/
@@ -492,9 +493,9 @@ footer {
     font-family: 'IM Fell DW Pica SC', serif;
   }
 }
-/*// Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) {
-  .Plot {
+// Extra large devices (large desktops, 1200px and up)
+ @media (min-width: 1200px) {
+  /* .Plot {
   font-family: 'IM Fell DW Pica SC', serif;
     font-size: 50px;
     text-align: center;
@@ -502,15 +503,13 @@ footer {
     text-shadow: 0 0 32px white;
     opacity: .7;
     color: white;
-  }
+  } */
   .PlotText {
-    font-size: 36px;
-    width: 60%;
-    margin-left: 15%;
+    font-size: 50px;
     color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .7;
-    color: white;
+    text-shadow: 0 0 32px #FFB6C1;
+    opacity: .9;
+    color: #FFB6C1;
     font-family: 'IM Fell DW Pica SC', serif;
   }
 }
