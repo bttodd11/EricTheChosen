@@ -1,28 +1,24 @@
-body, html {
+body,
+html {
   height: 100%;
   margin: 0;
 }
 
 a:visited {
-  color: #E1B900;
+  color: #c8cee6;
 }
 
 a:link {
-  color: #E1B900;
+  color: #c8cee6;
+  margin: 1%;
 }
 
 footer {
-  font-family: 'Righteous', cursive;
+  font-family: "Righteous", cursive;
   color: transparent;
   text-shadow: 0 0 32px white;
-  color: white;
-  background-color: black;
+  margin-top: 8%;
   font-size: 15px;
-}
-
-.EnigmaH {
-  margin-left: 40%;
-  font-size: 40px;
 }
 
 #Hero {
@@ -30,7 +26,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  font-family: 'Rock Salt', cursive;
+  font-family: "Libre Baskerville", serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
@@ -39,152 +35,24 @@ footer {
 
 .EnigmaT {
   font-size: 50px;
-  margin-left: 40%;
-  opacity: .6;
+  opacity: 0.6;
 }
 
 #typed {
   font-size: 33px;
   margin-left: 6%;
-  opacity: .9;
+  opacity: 0.9;
   margin: 10%;
   position: absolute;
-  font-family: 'Rock Salt', cursive;
+  font-family: "Libre Baskerville", serif;
   color: transparent;
   text-shadow: 0 0 32px white;
   color: white;
 }
-
-/*My Story Page*/
-
-#Story {
-  font-family: 'Righteous', cursive;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  color: transparent;
-  background-color: white;
-  background-image: url(../img/ETC3.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 125%;
-}
-
-.PlotText {
-  font-family: 'Righteous', cursive;
-  font-size: 12px;
+#FrontMedia {
   text-align: center;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  opacity: .6;
-  margin-left: 60%;
-  width: 17%;
-  color: white
-}
-
-/* Tour Page*/
-
-#Tour {
-  background-image: url(../img/ETC5.JPG);
-  height: 170%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  font-family: 'Righteous', cursive;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  color: white;
-}
-
-.TourHeading {
-  font-size: 48px;
-  font-family: 'Righteous', cursive;
-  color: white;
-  text-align: center;
-  opacity: .9;
-  margin-top: 21%;
-}
-
-/*Media Page*/
-
-#Media {
-  font-family: 'Righteous', cursive;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  color: white;
-  background-color: black;
-}
-
-.TrackList {
-  font-size: 40px;
-  font-family: 'Righteous', cursive;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  opacity: .9;
-  color: white;
-  padding-left: 20%;
-  font-family: 'Righteous', cursive;
-  margin: 3%;
-  text-decoration: underline;
-}
-
-.enigma {
-  font-size: 30px;
-  text-decoration: underline;
-  margin-left: 38%;
-  letter-spacing: 10px;
-  margin-bottom: 3%;
-}
-
-.Tracks {
-  font-size: 15px;
-  width: 500px;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  opacity: .3;
-  color: white;
-  font-family: 'Righteous', cursive;
-  margin-left: 32%;
-}
-
-.Tracks li {
-  display: inline;
-  font-size: 15px;
-  font-family: 'Righteous', cursive;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  opacity: .3;
-  color: white;
-  font-family: 'Righteous', cursive;
-}
-
-.AlbumCover {
-  width: 400px;
-  height: 400px;
-  margin-left: 42%;
-  border-radius: 15%;
-}
-
-.projects {
-  font-family: 'Righteous', cursive;
-  font-size: 40px;
-  text-align: center;
-  margin: 2%;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  opacity: .9;
-  color: white;
-}
-
-.song {
-  font-size: 25px;
-  font-family: 'Righteous', cursive;
-  text-decoration: underline;
-  color: transparent;
-  text-shadow: 0 0 32px white;
-  opacity: .9;
-  color: #E1B900;
-  text-align: center;
-  margin: 8%;
+  font-family: "Libre Baskerville", serif;
+  color: #5755ff;
 }
 
 /*// Extra small devices (portrait phones, less than 576px)*/
@@ -196,121 +64,36 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     height: 140%;
-    font-family: 'Rock Salt', cursive;
+    font-family: "Libre Baskerville", serif;
     color: transparent;
     text-shadow: 0 0 32px white;
     color: white;
   }
   #typed {
-    font-size: 18px;
-    margin-left: 1%;
-    opacity: .9;
+    font-size: 16px;
+    margin-left: 21%;
+    opacity: 0.9;
     position: absolute;
-    margin-top: 49%;
-    font-family: 'Rock Salt', cursive;
+    margin-top: 42%;
+    font-family: "Libre Baskerville", serif;
     color: transparent;
     text-shadow: 0 0 32px white;
     color: white;
   }
   .EnigmaT {
-    font-size: 50px;
-    margin-left: 15%;
-    opacity: .3;
+    font-size: 35px;
+    opacity: 0.3;
     letter-spacing: 4px;
   }
-  .PlotText {
-    font-size: 9px;
-    padding-top: 5%;
-    width: 30%;
-    padding-left: 3%;
-    text-align: center;
+  footer {
+    font-family: "Righteous", cursive;
     color: transparent;
     text-shadow: 0 0 32px white;
-    opacity: .5;
-    color: white;
-    font-family: 'Righteous', cursive;
+    font-size: 19px;
   }
-  /* Tour Page*/
-  #Tour {
-    background-image: url(../img/ETC5.JPG);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    font-family: 'Righteous', cursive;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    color: white;
-    height: 110%;
-  }
-  .TourHeading {
-    font-size: 18px;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .9;
-    color: white;
-    margin-top: 109%;
-    margin-left: 3%;
-    text-align: right;
-    font-family: 'Righteous', cursive;
-  }
-  .Tracks {
-    font-size: 8px;
-    width: 300px;
-    margin-left: 6%;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .3;
-    color: white;
-    font-family: 'Righteous', cursive;
-  }
-  .Tracks li {
-    display: inline;
-    font-size: 10px;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .3;
-    color: white;
-    font-family: 'Righteous', cursive;
-  }
-  .enigma {
-    margin-left: 30%;
-    text-decoration: underline;
-    letter-spacing: 8px;
-  }
-  .AlbumCover {
-    width: 250px;
-    height: 250px;
-    margin-left: 27%;
-    border-radius: 15%;
-    margin-bottom: 9%;
-  }
-  .projects {
-    font-size: 40px;
-    padding-top: 4%;
-    padding-bottom: 4%;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .9;
-    color: white;
-    font-family: 'Righteous', cursive;
-  }
-  .song {
-    font-size: 15px;
-    text-decoration: underline;
-    font-weight: 300;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .9;
-    margin: 4%;
-    color: #E1B900;
-    text-align: center;
-    font-family: 'Righteous', cursive;
-  }
+
+  /* Medium devices (tablets, 768px and up)*/
 }
-
-/*// Medium devices (tablets, 768px and up)*/
-
 @media (min-width: 768px) {
   #Hero {
     background-image: url(../img/ChosenBG.JPG);
@@ -318,144 +101,42 @@ footer {
     background-position: center;
     background-size: cover;
     height: 160%;
-    font-family: 'Rock Salt', cursive;
+    font-family: "Libre Baskerville", serif;
     color: transparent;
     text-shadow: 0 0 32px white;
-    color: white
+    color: white;
   }
   #typed {
     font-size: 27px;
     margin-left: 15%;
     color: white;
-    opacity: .9;
+    opacity: 0.9;
     position: absolute;
     padding-top: 22%;
-    font-family: 'Rock Salt', cursive;
+    font-family: "Libre Baskerville", serif;
   }
 }
 
+/* Laptop view */
 @media (min-width: 992px) {
+  img {
+    margin-left: 2%;
+  }
   #typed {
-    font-size: 50px;
-    margin-left: 17%;
+    font-size: 50px !important;
+    margin-left: 25% !important;
     color: transparent;
     text-shadow: 0 0 32px white;
-    opacity: .9;
+    opacity: 0.9;
     color: white;
     position: absolute;
     margin-top: 4%;
-    font-family: 'Rock Salt', cursive;
+    font-family: "Libre Baskerville", serif;
   }
   .EnigmaT {
-    font-size: 130px;
-    margin-left: 10%;
-    letter-spacing: 10px;
-    opacity: .6
-  }
-  /*My Story Page*/
-  #Story {
-    font-family: 'Righteous', cursive;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    color: transparent;
-    background-color: white;
-    background-image: url(../img/ETC3.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 190%;
-  }
-  .PlotText {
-    font-size: 25px;
-    padding-top: 8%;
-    width: 26%;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .8;
-    color: white;
-    font-family: 'Righteous', cursive;
-  }
-  /*Tour Page*/
-  #Tour {
-    background-image: url(../img/ETC2.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 'Righteous', cursive;
-    height: 190%;
-  }
-  .TourHeading {
-    font-size: 60px;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .9;
-    color: white;
-    text-align: right;
-    margin-top: 27%;
-    font-family: 'Righteous', cursive;
-  }
-  /*Media Page*/
-  #Media {
-    font-family: 'Righteous', cursive;
-    background-color: black;
-  }
-  .Tracks {
-    font-size: 10px;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .3;
-    color: white;
-    font-family: 'Righteous', cursive;
-    text-transform: uppercase;
-    margin-left: 81%;
-  }
-  .Tracks li {
-    display: inline;
-    font-size: 10px;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .9;
-    color: white;
-    font-family: 'Righteous', cursive;
-    text-transform: uppercase;
+    font-size: 100px;
+    letter-spacing: 5px;
     text-align: center;
+    opacity: 0.6;
   }
-  .enigma {
-    margin-left: 40%;
-    text-decoration: underline;
-    font-size: 50px;
-    letter-spacing: 16px;
-  }
-  .AlbumCover {
-    width: 500px;
-    height: 500px;
-    margin-top: 7%;
-    margin-left: 79%;
-    border-radius: 15%;
-    margin-bottom: 3%
-  }
-  .projects {
-    font-size: 40px;
-    text-align: center;
-    padding-bottom: 2%;
-    padding-top: 2%;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .9;
-    color: white;
-    font-family: 'Righteous', cursive;
-    text-decoration: underline;
-  }
-  .song {
-    font-size: 17px;
-    font-weight: 400;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    color: transparent;
-    text-shadow: 0 0 32px white;
-    opacity: .9;
-    color: #E1B900;
-    text-align: center;
-    font-family: 'Righteous', cursive;
-    text-transform: uppercase;
-  }
-  // Extra large devices (large desktops, 1200px and up)
-  @media (min-width: 1200px) {}
+}
